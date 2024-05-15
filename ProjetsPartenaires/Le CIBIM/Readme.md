@@ -1,4 +1,4 @@
-# MutuAli - La Cantine pour tous
+# MutuAli - Le CIBIM
 
 ## Sommaire
 

@@ -103,7 +103,7 @@ Cet *objectif* a été choisi suite aux *évaluations* suivantes :
 <a id='eco-design' class='anchor' aria-hidden='true'/>  
 Les *résultats* ne seront pas clairement observés dans les solutions numériques mais plutôt par l'augmentation du partage des locaux et outils.  
 
-La Cantine pour tous a mis en place une architecture et une plateforme de mutualisation qui répond au besoin identifié:
+Le CIBIM a mis en place une architecture et une plateforme de mutualisation qui répond au besoin identifié:
 ![MutuAli](Images/Mutualisation-MutuAli.png)
 
 
