@@ -47,7 +47,7 @@
       <element xsi:type="archimate:ApplicationComponent" name="Profils" id="EAID_19A26901_0FC7_4b9e_92E2_BA86F67E3EAF"/>
       <element xsi:type="archimate:ApplicationService" name="Commun Axiom" id="EAID_E5FDD8B9_93B2_48a3_9E27_EB6E087D65EC"/>
     </folder>
-    <folder name="La Cantine pour tous" id="id-1a30abeb1deb481db32eb958db4e8f11">
+    <folder name="Le CIBIM" id="id-1a30abeb1deb481db32eb958db4e8f11">
       <element xsi:type="archimate:ApplicationComponent" name="Cartes de localisation Geo" id="EAID_ABEA70CA_D6CE_4d83_AA59_AC7B8913A9C5"/>
       <element xsi:type="archimate:ApplicationComponent" name="Gestions des comptes clients" id="EAID_12A3E236_464C_4b02_8B1F_08BA69C72DFA"/>
       <element xsi:type="archimate:ApplicationComponent" name="Jornalisation" id="EAID_B1640B3C_EEA5_47f6_81AD_FFD2F3B575E8"/>
@@ -287,7 +287,7 @@
       <element xsi:type="archimate:Stakeholder" name="INFC" id="EAID_C2EBA2E1_49AF_4a6e_BAE1_B5C6AAFA28B3">
         <documentation>Infrastructure Canada</documentation>
       </element>
-      <element xsi:type="archimate:Stakeholder" name="La Cantine Pour Tous" id="EAID_969FFEA4_D76C_4761_B898_1D6DBA6B7C80"/>
+      <element xsi:type="archimate:Stakeholder" name="Le CIBIM" id="EAID_969FFEA4_D76C_4761_B898_1D6DBA6B7C80"/>
       <element xsi:type="archimate:Stakeholder" name="Le CRIEM" id="EAID_AB2E9140_12CB_4674_84D2_E47E4C5043B9"/>
       <element xsi:type="archimate:Stakeholder" name="MIS-Licer" id="EAID_8C1CF81F_26A6_4ecc_A902_AD6533CB3F20"/>
       <element xsi:type="archimate:Stakeholder" name="Nord Ouvert" id="EAID_9D6FA6B7_4E84_4187_B619_7AF46F7C615F"/>
